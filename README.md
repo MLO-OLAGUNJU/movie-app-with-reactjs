@@ -9,7 +9,7 @@ Random Ridiculousness: Get surprised with a random hilariously bad movie suggest
 Getting Started
 To get started with MovieRidiculous, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/MovieRidiculous.git
+Clone the repository: git clone https://github.com/MLO-OLAGUNJU/movie-app-with-reactjs.git
 Install dependencies: npm install
 Start the app: npm start
 Contributing
